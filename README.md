@@ -9,7 +9,7 @@
 - 💬 Ask me about Job opportunites and future projects.
 - ⚡ Fun fact: I am a great cook!
 
-# 🧒🏻 About Me
+# 👨🏽‍🦱 About Me
 
 - 🎮 Arena focused Game Design Student
 - 📱 UI/UX Designer
