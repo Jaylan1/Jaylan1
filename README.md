@@ -2,9 +2,9 @@
 
 # Hi there 👋
 
-- 🔭 I’m currently working on GAMES
-- 🌱 I’m currently learning Unity
-- 👯 I’m looking to collaborate on ALOT OF GAME PROJECTS
+- 🔭 I’m currently working with Python, C++, C#, and Javascript.
+- 🌱 I’m currently learning Unity, GameMaker, and Godot.
+- 👯 I’m looking to collaborate on game projects so let me know my contact is down below.
 - 🤔 I’m looking for help with building my coding profolio.
 - 💬 Ask me about Job opportunites and future projects.
 - ⚡ Fun fact: I am a great cook!
@@ -17,8 +17,8 @@
 - 👔 Currently looking for interships and jobs
 
 # 📬 Contact Me
-- 📧 Gmail: long.jaylan2@gmail.com
-- ☑️ Instagram: 
+- 📧 Gmail: long.jaylan@gmail.com (takes up to 2 days for me to respond, I check daily)
+- ☑️ Instagram: @thalightskinjay (best way to reach me about a project)
 
 # 👩🏻‍💻 Languages
 
