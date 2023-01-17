@@ -2,8 +2,8 @@
 
 # Hi there 👋
 
-- 🔭 I’m currently working with Python, C++, C#, and Javascript.
-- 🌱 I’m currently learning Unity, GameMaker, and Godot.
+- 🔭 I’m currently working with Python, C++, C#, Javascript, and Lua.
+- 🌱 I’m currently learning Unreal, Unity, GameMaker, Godot, and Roblox.
 - 👯 I’m looking to collaborate on game projects so let me know my contact is down below.
 - 🤔 I’m looking for help with building my coding profolio.
 - 💬 Ask me about Job opportunites and future projects.
@@ -29,4 +29,5 @@
 - GDScript
 - C#
 - HTML
+- Lua
 <!--
